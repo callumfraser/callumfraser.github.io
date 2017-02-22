@@ -1,0 +1,117 @@
+.welcome{
+  float: left;
+  width: 10%;
+  background-color: red;
+  border-style: dotted;
+  border-color: black;
+  padding-bottom: 5px;
+}
+.welcome h1{
+  font-size: 15px;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.welcome img{
+  width: 80%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.heading{
+  margin: auto;
+  text-align: center;
+  width: 70%;
+  background-color: rgba(120, 120, 150, 0.5);
+  padding-bottom: 40px;
+  margin-bottom: 50px;
+  border-style: dashed;
+  border-width: 7px;
+  }
+
+  .heading img{
+  display: block;
+  margin: auto;
+  width: 50%;
+
+}
+
+h1{
+  font-family: "Arial", sans-serif;
+}
+
+p{
+  font-family: sans-serif;
+}
+
+body {
+  background-image: url("images/ant.gif");
+  padding-bottom: 20px;
+}
+
+th{
+font-size: 30px;
+}
+
+table, th, td{
+  border: 1px solid black;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.language{
+  background-color: rgba(134, 230, 180, 0.6);
+  box-sizing: border-box;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  padding-bottom: 40px;
+  border-style: solid;
+  border-width: 2px;
+  margin-top: 30px;
+}
+
+.language p{
+  font-weight: normal;
+}
+.city img{
+  width: 80%;
+  padding-bottom: 10px;
+  margin-top: 10px;
+}
+
+.city{
+  background: rgb(122,100,155);
+  text-align: center;
+  width: 40%;
+  margin: auto;
+  border-style: groove;
+  border-width: 8px;
+}
+
+.historic{
+  text-align: center;
+  width: 70%;
+  margin: auto;
+  border-style: solid;
+  border-width: 4px;
+  padding-bottom: 20px;
+  background-color: rgba(120, 112, 112, 0.3);
+  margin-top: 30px;
+}
+
+.historic img{
+  width: 80%;
+  padding-top: 15px;
+  padding-bottom: 20px;
+}
+
+.historic p{
+  border-style: dashed;
+  border-width: 3px;
+  width: 90%;
+  margin: auto;
+  margin-top: 10px;
+  padding-bottom: 40px;
+  padding-top: 10px;
+  background-color: rgba(240, 230, 220, 0.8);
+}
